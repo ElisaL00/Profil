@@ -73,9 +73,7 @@ ul {
 	list-style: none;
 }
 
-.odkazy li {
-	display: inline-block;
-}
+
 
 .odkazy a {
 	display: block;
@@ -96,15 +94,19 @@ ul {
 	width: 100%;
 	border-top: 1px solid #3f464d;
 	border-bottom: 1px solid #3f464d;
+	display: block;
 }
 
 .facebook {
+	display: inline-block;
 	width: 50%;
+	
 }
 
 .twitter {
-	width: 48%;
-}
+	display: inline-block;
+	width: 50%;
+	}
 
  .portfolio:hover {
 	background-color: #e74c3c;
