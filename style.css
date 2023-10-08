@@ -99,8 +99,8 @@ ul {
 
 .facebook {
 	display: inline-block;
-	width: 50%;
-	
+	width: 50%;	
+	border-right: 1px solid #3f464d;
 }
 
 .twitter {
