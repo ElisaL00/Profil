@@ -81,7 +81,6 @@ ul {
 	display: block;
 	color: #bdc3c7;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 600;
 	text-transform: uppercase;
 	text-decoration: none;
 	text-align: center;
@@ -101,11 +100,10 @@ ul {
 
 .facebook {
 	width: 50%;
-	border-right: 1px solid #3f464d;
 }
 
 .twitter {
-	width: 50%;
+	width: 48%;
 }
 
  .portfolio:hover {
